@@ -1,0 +1,13 @@
+.icon-close {
+  font-size: 1.2em;
+  color: deepskyblue;
+  margin-left: 10px;
+}
+
+.box {
+  display: flex;
+  margin-top: 20px;
+}
+.btn {
+  margin-left: 20px;
+}
